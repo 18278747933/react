@@ -1,0 +1,9 @@
+.content{
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    display: none;
+}
+.content.active{
+    display: block;
+}
